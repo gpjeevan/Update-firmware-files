@@ -1,0 +1,2 @@
+version=1.0.0
+file_url=https://172.28.231.249:8080/firmware.bin
